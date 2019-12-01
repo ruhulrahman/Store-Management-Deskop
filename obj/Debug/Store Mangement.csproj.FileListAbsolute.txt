@@ -1,0 +1,9 @@
+H:\C-Sharp-Programming\Store Mangement\bin\Debug\Store Mangement.exe.config
+H:\C-Sharp-Programming\Store Mangement\bin\Debug\Store Mangement.exe
+H:\C-Sharp-Programming\Store Mangement\bin\Debug\Store Mangement.pdb
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store Mangement.csprojAssemblyReference.cache
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store_Mangement.FormMain.resources
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store_Mangement.Properties.Resources.resources
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store Mangement.csproj.GenerateResource.cache
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store Mangement.exe
+H:\C-Sharp-Programming\Store Mangement\obj\Debug\Store Mangement.pdb
